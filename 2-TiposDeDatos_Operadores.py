@@ -28,7 +28,7 @@ print(texto)
 texto2 =  "Esta es 'una frase' de texto"
 texto3 =  'Esta es "una frase" de texto'
 
-#Texto con formato
+#Texto con formato para escribir texto.       
 textoConFormato = """ Esto es un texto 
 con formato"""
 
